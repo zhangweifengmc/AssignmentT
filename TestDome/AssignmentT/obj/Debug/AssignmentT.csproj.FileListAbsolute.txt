@@ -1,0 +1,7 @@
+D:\source\repos\TestDome\AssignmentT\obj\Debug\AssignmentT.csprojResolveAssemblyReference.cache
+D:\source\repos\TestDome\AssignmentT\obj\Debug\AssignmentT.csproj.CoreCompileInputs.cache
+D:\source\repos\TestDome\AssignmentT\bin\Debug\AssignmentT.exe.config
+D:\source\repos\TestDome\AssignmentT\bin\Debug\AssignmentT.exe
+D:\source\repos\TestDome\AssignmentT\bin\Debug\AssignmentT.pdb
+D:\source\repos\TestDome\AssignmentT\obj\Debug\AssignmentT.exe
+D:\source\repos\TestDome\AssignmentT\obj\Debug\AssignmentT.pdb
